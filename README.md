@@ -31,7 +31,5 @@ The power of storytelling and visualization in simplifying complex technical con
 
 To get started with exploring the tasks completed in this repository, please refer to the respective task files linked above.
 
-## Contributing
 
-Contributions are not applicable to this repository as it solely contains completed tasks by the intern.
 
